@@ -1,6 +1,8 @@
 .filters {
-  background: white;
-  width: 100%;
+  background: rgba(138, 138, 255, 0.39);
+  width: 75%;
+  border-radius: 6cap;
+  padding: 1cap;
 }
 .filters li {
   display: inline-block;
